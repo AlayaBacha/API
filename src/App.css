@@ -1,0 +1,30 @@
+.azer{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+.bb{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 200px;
+}
+.aa{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 220px;
+}
+.login{
+  margin-left: 618px;
+}
+.logout{
+  margin-left: 300px;
+}
+.home{
+  margin-left: 240px;
+}
+.user{
+  margin-left: 264px;
+}
